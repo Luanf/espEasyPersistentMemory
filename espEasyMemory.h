@@ -13,5 +13,6 @@ public:
 	int recoverStringVariable(String *variable, String filename);
 	int recoverFloatVariable(float *variable, String filename);
 	int recoverDoubleVariable(double *variable, String filename);
+	void format();
 };
 #endif

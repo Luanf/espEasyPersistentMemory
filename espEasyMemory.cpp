@@ -163,3 +163,7 @@ int espEasyMemory::recoverDoubleVariable(double *variable, String filename){
 	return 1;
 	
 }
+
+void espEasyMemory::format(){
+	SPIFFS.format();
+}
