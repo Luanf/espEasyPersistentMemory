@@ -1,15 +1,17 @@
 # espEasyPersistentMemory
 
+Simple library to abstract persistent memory on the ESP8266.
+Allows user to more easily access consistent values from variables after ESP8266 deepsleep.
+
 ## Todo:
--> Correct float and double functions
 
 -> Create more examples
 
--> Comment code
+-> Create more macros
 
--> Elaborate README
+-> Finish float and double corrections
 
--> Maybe create a macro for some functions
+
 
 
 
